@@ -1,6 +1,6 @@
 # iris_machine-learning
 
-Este projeto é que visa aplicar modelos de classificação e usa como base o dataset 'iris'.
+Este projeto visa aplicar modelos de classificação e usa como base o dataset 'iris'.
 
 As tarefas propostas são:
 * Fazer a Análise Exploratória dos Dados.
